@@ -1,44 +1,84 @@
-# Hi, I'm Bourema Diarra
+# Hi, I'm Bourema Diarra 👋
 
-PhD Researcher in Environmental Science at ELTE University, Hungary.
+PhD Researcher in Environmental Science at ELTE Eötvös Loránd University, Hungary.
 
-I am passionate about data analytics, environmental research, climate change, land restoration, and evidence-based decision-making.
+I specialize in environmental research, quantitative analysis, field data collection, and evidence-based decision-making. My work focuses on the relationships between natural resource use, environmental change, and sustainable development.
 
-Currently learning Python, SQL, and Power BI to expand my expertise in data analysis.
-
----
-
-## Skills
-
-- Python (Pandas, NumPy, Matplotlib)
-- R
-- SPSS
-- Excel
-- Data Visualization
-- Research Methods
-- Statistical Analysis
-- GIS (QGIS, ArcGIS)
+Alongside my doctoral research, I am expanding my expertise in Python, SQL, data visualization, and business intelligence tools to build practical solutions through data analytics.
 
 ---
 
-## Current Focus
+## Technical Skills
 
-- Data Analytics
-- Environmental Data Analysis
-- Python Programming
-- Dashboard Development
+### Data Analysis & Statistics
+
+* Python (Pandas, NumPy, Matplotlib)
+* R
+* SPSS
+* Excel
+* Data Cleaning and Data Management
+* Statistical Analysis
+
+### Data Visualization
+
+* Matplotlib
+* ggplot2
+* Power BI (currently learning)
+
+### GIS & Spatial Analysis
+
+* QGIS
+* ArcGIS
+
+### Research & Communication
+
+* Quantitative Research
+* Qualitative Research
+* Scientific Writing
+* Literature Review
+* Survey Design and Data Collection
+
+---
+
+## Current Learning Journey
+
+I am actively developing projects in:
+
+* Python for Data Analytics
+* SQL
+* Power BI
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* Environmental and Socio-economic Data Analysis
+
+---
+
+## Featured Projects
+
+🚧 Portfolio projects currently under development.
+
+Upcoming projects include:
+
+* Fuelwood Consumption Analysis in Mali
+* Environmental Kuznets Curve (EKC) Bibliometric Analysis
+* Interactive Data Dashboards
+* SQL Analytics Projects
 
 ---
 
 ## Contact
 
-Email: bouremadiarra89@gmail.com
+📧 Email: [bouremadiarra89@gmail.com](mailto:bouremadiarra89@gmail.com)
 
-LinkedIn:
-[www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/bourema-diarra-8623b2220/)
+💼 LinkedIn:
+https://www.linkedin.com/in/bourema-diarra-8623b2220/
 
 ---
 
-## CV
+## Curriculum Vitae
 
-[Download My CV](link_to_cv)
+📄 **[Download My CV](https://raw.githubusercontent.com/bdiarra-babougou/bouremadiarra89/main/Resume_Bourema_Diarra.pdf)**
+
+---
+
+*"Turning data into meaningful insights for research, sustainability, and informed decision-making."*
