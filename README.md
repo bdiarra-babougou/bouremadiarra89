@@ -68,7 +68,7 @@ This project demonstrates a complete data preparation workflow using Python. It 
 
 ---
 
-##📊 Project 2: Text Analysis with Python ()
+##📊 Project 2: Text Analysis with Python (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
 
 This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
 
