@@ -58,7 +58,7 @@ I am actively developing projects in:
 ### 📈 [Project 1: GDP Data Cleaning and Analysis] (https://github.com/Bourema-D/Data_Analytics_Learning_Portfolio)
 This project demonstrates a complete data preparation workflow using Python. It involves extracting GDP data from a webpage, cleaning and transforming the dataset, converting GDP values from million USD to billion USD, and exporting the processed data for further analysis.
 
-**Key Skills**
+**🛠 Key Skills**
 - Python
 - Pandas
 - NumPy
