@@ -68,6 +68,21 @@ This project demonstrates a complete data preparation workflow using Python. It 
 
 ---
 
+##📊 Project 2: Text Analysis with Python ()
+
+This project presents a structured text mining pipeline built in Python to extract meaningful insights from unstructured customer review data. It simulates a real-world business scenario where large volumes of customer feedback must be processed efficiently to identify patterns, recurring themes, and key terms.
+
+The workflow focuses on transforming raw textual data into analyzable information through preprocessing, word frequency analysis, and keyword extraction. These techniques provide a foundation for understanding customer concerns and highlight how basic Natural Language Processing (NLP) methods can support data-driven decision-making in business contexts.
+
+**🛠 Key Skills Demonstrated**
+Python programming
+Natural Language Processing (NLP) fundamentals
+Text preprocessing and cleaning
+Word frequency distribution analysis
+Object-Oriented Programming (OOP)
+Data interpretation and analytical thinking
+
+---
 ### 🚧 Upcoming Projects
 
 - Environmental Kuznets Curve (EKC) Bibliometric Analysis
